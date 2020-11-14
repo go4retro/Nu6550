@@ -1,6 +1,6 @@
 # Nu6550
 
-Replacement for the MOD 6550 1kbx4 SRAM using modern components.
+Replacement for the MOS 6550 1kbx4 SRAM using modern components.
 
 ## Introduction
 
